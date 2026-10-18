@@ -52,7 +52,7 @@ class MainActivity : Activity() {
         val scroll = ScrollView(this)
         val content = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL }
         val title = TextView(this).apply {
-            text = "RAMBO BRIDGE"
+            text = "RAMBOPRINT"
             textSize = 25f
             gravity = Gravity.CENTER
             setPadding(0, 8, 0, 8)

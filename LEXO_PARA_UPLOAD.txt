@@ -1,0 +1,10 @@
+RAMBOPRINT - FILET GATI PER GITHUB
+
+1. Mbyll GitHub Desktop nëse është duke bërë ndonjë veprim.
+2. Ekstrakto këtë ZIP direkt brenda dosjes lokale të repository-t RamboApk (dosja ku ndodhen app, build.gradle.kts, settings.gradle.kts).
+3. Kur Windows pyet, zgjidh Replace/Overwrite për skedarët ekzistues.
+4. Hap GitHub Desktop, vendos Summary: Add RamboPrint launcher icon and JVM 17 config.
+5. Kliko Commit to main dhe pastaj Push origin.
+6. Te GitHub Actions hap build-in e ri.
+
+Përfshihet emri RamboPrint, ikona launcher dhe korrigjimi Java/Kotlin JVM 17. Kjo nuk implementon ende printim automatik në sfond; është emërtimi/ikona dhe rregullimi i build-it.
